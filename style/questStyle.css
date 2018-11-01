@@ -1,0 +1,21 @@
+#main{
+        width: 1200px;
+        text-align: center;
+        border: 1px solid #ECECEC;
+        min-height: 175px;
+        font-family: Arial;
+    }
+th, td{ 
+        height: 30px;
+        width: 400px;
+        border-collapse: collapse;
+        border-bottom: 1px solid #ECECEC; 
+    }   
+#pathways td{
+        background-color: #FFFCFE;
+    }
+span {
+        position: relative;
+        bottom: 15px;
+        color: gray;
+    }

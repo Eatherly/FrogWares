@@ -1,0 +1,15 @@
+#quest{
+        border-collapse: collapse;
+        font-family: Arial;
+        }
+#quest th,td{
+        border: 1px solid black;
+        width: 200px;
+        text-align: center;
+        height: 50px;
+        font-size: 17px
+             
+        }
+#quest th{
+        height: 35px;
+        }
